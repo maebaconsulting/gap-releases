@@ -7,8 +7,8 @@ Téléchargements de GAP, logiciel de gestion des passeports pour le scanner Plu
 Chaque version contient :
 
 - `GAP-Installation-x.y.z.exe` : l'installeur pour Windows 10 et 11 (64 bits) ;
-- `installation.md` : le guide d'installation ;
-- `recette.md` : la liste des essais à réaliser sur le poste équipé du scanner.
+- `installation.md` : le guide d'installation (aussi en Word à partir de la 1.0.1) ;
+- `recette.md` : la liste des essais à réaliser sur le poste équipé du scanner (aussi en Word à partir de la 1.0.1).
 
 Avant l'installation, installez le pilote du scanner X150 depuis la page de support de Plustek, scanner débranché. Le guide d'installation détaille chaque étape.
 
